@@ -1,0 +1,13 @@
+{
+    "comerciantes":[{
+        "datos":[{
+            "establecimiento": "Falafel M",
+            "celular": "3117787283",
+            "whatsapp": true,
+            "facebook": true,
+            "horario": "6:00-18:00",
+            "telefono": "7543355",
+            "foto": "https://decoracion2.com/imagenes/2011/07/uphouse01.jpg"
+            }]
+    }]
+}
